@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "name": "Bike",
+      "tPrice1": "80",
+      "tPrice2": "90",
+      "tPrice3": "100",
+      "image": "https://i.ibb.co/3rjXxJP/bike.png",
+      "image1": "https://i.ibb.co/2Kdz1zG/bike1.png",
+      "image2": "https://i.ibb.co/f8STSmk/bike2.png",
+      "image3": "https://i.ibb.co/q5NPTsx/bike3.png",
+      "seat1":"1",
+      "seat2":"2",
+      "seat3":"1"
+    },
+    {
+      "id": "2",
+      "name": "Car",
+      "tPrice1": "120",
+      "tPrice2": "145",
+      "tPrice3": "160",
+      "image": "https://i.ibb.co/PxVS3vh/car.png",
+      "image1": "https://i.ibb.co/5vyvcqk/car1.png",
+      "image2": "https://i.ibb.co/qjChg97/car2.png",
+      "image3": "https://i.ibb.co/qr2S7WM/car3.png",
+      "seat1":"2",
+      "seat2":"3",
+      "seat3":"1"
+    },
+    {
+      "id": "3",
+      "name": "Bus",
+      "tPrice1": "200",
+      "tPrice2": "220",
+      "tPrice3": "240",
+      "image": "https://i.ibb.co/ThK41TM/bus.png",
+      "image1": "https://i.ibb.co/xzLs2pC/bus1.png",
+      "image2": "https://i.ibb.co/0ZV1htg/bus2.png",
+      "image3": "https://i.ibb.co/2KG0HL0/bus3.png",
+      "seat1":"7",
+      "seat2":"5",
+      "seat3":"9"
+    },
+    {
+      "id": "4",
+      "name": "Train",
+      "tPrice1": "180",
+      "tPrice2": "200",
+      "tPrice3": "220",
+      "image": "https://i.ibb.co/FXxvg0j/train.png",
+      "image1": "https://i.ibb.co/2dVWx8N/train1.png",
+      "image2": "https://i.ibb.co/Rg0b3L6/train2.png",
+      "image3": "https://i.ibb.co/8bBnrSX/train3.png",
+      "seat1":"15",
+      "seat2":"11",
+      "seat3":"25"
+    }
+  ]

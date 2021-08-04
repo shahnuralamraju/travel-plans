@@ -1,0 +1,18 @@
+.vehicle-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    height: 89vh;
+    
+}
+
+@media screen and (max-width:767px){
+    .vehicle-container{
+        width: 100%;
+        background-color: blue; 
+        height: 190vh;
+    }
+}

@@ -1,0 +1,27 @@
+.nav-bar{
+    width: 78.5%;
+    margin: auto;
+    padding: 20px;
+    font-weight: 500;
+}
+.list-item li{
+    font-size: 16px;
+    padding: 1px 25px;
+}
+.login{
+    background-color: tomato;
+    color: white ;
+    border-radius: 5px;
+}
+.f-color{
+    color: tomato;
+}
+
+
+@media screen and (max-width:767px){
+    .nav-bar{
+        width: 100%;
+        background-color: rgb(85, 212, 235);
+    }
+   
+}
